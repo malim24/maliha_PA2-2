@@ -1,0 +1,28 @@
+package maliha_P1;
+
+
+import java.util.Scanner;
+
+
+public class maliha_P1 {
+
+	
+	public static void main(String[] args) {
+		
+		Scanner in = new Scanner(System.in);
+		System.out.println("Please enter 4 digit integer");
+		int number = in.nextInt();
+		System.out.println("Thank you");
+		
+		System.out.println("You entered:" + number);
+
+		
+		
+	System.out.println("Encryption");
+	
+	System.out.println("Decryption");
+
+		
+	}
+
+}

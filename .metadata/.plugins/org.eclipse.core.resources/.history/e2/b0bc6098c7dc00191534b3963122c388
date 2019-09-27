@@ -1,0 +1,18 @@
+package maliha_P1;
+
+import com.sun.tools.jdeprscan.scan.Scan;
+
+public class maliha_P1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub	      
+		Scanner scnr = new Scan(System.in);
+
+		System.out.println("helloWorld!");
+		int a, b, c ,d;
+		int encryptedNum;
+		System.out.println("Please enter 4 digit number");
+		
+	}
+
+}
